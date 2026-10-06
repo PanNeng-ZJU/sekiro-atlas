@@ -1,0 +1,12 @@
+{
+  "mapKey": 77,
+  "hideKey": 120,
+  "zoomOutKey": 117,
+  "zoomInKey": 118,
+  "minimapSize": 320,
+  "minimapRadius": 65,
+  "opacity": 0.93,
+  "controllerEnabled": true,
+  "allowLockedTravel": false,
+  "playerOffsets": {}
+}
